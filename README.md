@@ -1,18 +1,15 @@
 ### A3 - Sistemas Distribuídos - Game Jokenpô 🕹️
-## 
-<div style="display: flex; align-items: center;">
-  <img src="https://j.gifs.com/Kz7r2b.gif" style="width: 35%;">
-  <div style="width: 65%; margin-left: 20px;">
-  <p>
-    Este projeto é uma adaptação do famoso jogo japonês Jokenpô para servidores, implementado em Java. A ideia é reproduzir o jogo em dois modos: contra um oponente computador e contra um oponente real, utilizando a arquitetura de sistemas distribuídos. A implementação envolve a utilização de programação de rede, como sockets, para permitir a comunicação entre os jogadores e o servidor, possibilitando partidas em tempo real entre diferentes máquinas.
-</p>
-<p><b>Integrantes do grupo:</b></b><p>
-• Erick Firmo Carneiro - RA: 1252312786
-• Karina Antunes de Lima - RA:  12524120379
-• Maria Júlia Anacleto Tiago - RA: 12523131329
-</p>
-</div>
-</div>
+<br>
+
+<img src="https://j.gifs.com/Kz7r2b.gif" style="width: 70%;">
+
+Este projeto é uma adaptação do famoso jogo japonês Jokenpô para servidores, implementado em Java. A ideia é reproduzir o jogo em dois modos: contra um oponente computador e contra um oponente real, utilizando a arquitetura de sistemas distribuídos. A implementação envolve a utilização de programação de rede, como sockets, para permitir a comunicação entre os jogadores e o servidor, possibilitando partidas em tempo real entre diferentes máquinas.
+<br><br>
+**Integrantes do grupo:**
+
+- Erick Firmo Carneiro - RA: 1252312786
+-  Karina Antunes de Lima - RA:  12524120379
+- Maria Júlia Anacleto Tiago - RA: 12523131329
 
 ------------
 
@@ -39,7 +36,7 @@ Para executar o projeto, é necessário compilar e executar as duas classes prin
 `javac Server.java` - Compila a classe (Server.java)
 
 `java Server` - Executa a classe (Server)
-<br>
+<br><br>
 **Iniciando (Client.java):**
 
 `javac Client.java` - Compila a classe (Client.java)
